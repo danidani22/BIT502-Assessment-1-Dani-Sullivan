@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BIT502 Assessment 1 Dani Sullivan/1.0.0": {
+        "runtime": {
+          "BIT502 Assessment 1 Dani Sullivan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BIT502 Assessment 1 Dani Sullivan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

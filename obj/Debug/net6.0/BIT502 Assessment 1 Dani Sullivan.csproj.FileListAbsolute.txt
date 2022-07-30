@@ -1,0 +1,15 @@
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\bin\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.exe
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\bin\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.deps.json
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\bin\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.runtimeconfig.json
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\bin\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.dll
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\bin\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.pdb
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\obj\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.csproj.AssemblyReference.cache
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\obj\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\obj\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.AssemblyInfoInputs.cache
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\obj\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.AssemblyInfo.cs
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\obj\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.csproj.CoreCompileInputs.cache
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\obj\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.dll
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\obj\Debug\net6.0\refint\BIT502 Assessment 1 Dani Sullivan.dll
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\obj\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.pdb
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\obj\Debug\net6.0\BIT502 Assessment 1 Dani Sullivan.genruntimeconfig.cache
+E:\Sckool\BIT502 Fundamentals of Programming\BIT502 Assessment 1 Dani Sullivan\obj\Debug\net6.0\ref\BIT502 Assessment 1 Dani Sullivan.dll
